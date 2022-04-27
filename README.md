@@ -2,4 +2,6 @@
 
 Co-Founder & Tech Joe [@JoeShmoeNFT](https://twitter.com/JoeShmoeNFT)
 
+Creator of [Solana Shield](https://github.com/joeshmoenft/solana-shield)
+
 Come join us in our [Discord](https://discord.gg/joeshmoenft)
